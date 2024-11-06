@@ -18,6 +18,6 @@ I am a recent graduate with a passion for continuous learning.
   - Deepening my understanding of **Data Structures and Algorithms**.
   - Time and space complexities **"Big O"**
 
-   - 🎯 My Next Learning Goals
+- 🎯 **My Next Learning Goals**
    - Test Driven Development 
    - Languages such as C# and C++
